@@ -1,0 +1,11 @@
+Model Information:
+* title:	MoonMecha
+* source:	https://sketchfab.com/3d-models/moonmecha-00f90a5f588f4cda8006ebcbad889ce8
+* author:	Ramenya (https://sketchfab.com/ramenya)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MoonMecha" (https://sketchfab.com/3d-models/moonmecha-00f90a5f588f4cda8006ebcbad889ce8) by Ramenya (https://sketchfab.com/ramenya) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
